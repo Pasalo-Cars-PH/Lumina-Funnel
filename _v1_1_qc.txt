@@ -1,0 +1,1 @@
+V1.1 conversion QC checkpoint: mobile CTA, stronger metadata, direct contact links, improved form fields, accessibility labels, and mobile conversion refinements. This marker can be removed later.
